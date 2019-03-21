@@ -10,11 +10,7 @@
     margin: 0 auto;
     box-shadow: 0 30px 40px rgba(0,0,0,.1);
 }
-.card-img {
-    filter: blur(2px);
-    -webkit-filter: blur(1px);
-}
-.card-img-overlay {
+.card-body {
         background-color: rgb(0,0,0); /* Fallback color */
         background-color: rgba(0,0,0, 0.6); /* Black w/opacity/see-through */
         color: rgb(241, 239, 239);
