@@ -33,7 +33,7 @@
         font-weight: bold;
         border: none;
 }
-.card-title, .card-text{
+.card-title.card-text{
     color: rgb(241, 239, 239);
 }
 
